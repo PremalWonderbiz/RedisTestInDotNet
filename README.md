@@ -1,9 +1,3 @@
-Below is a **generic, clean, production-style `README.md`** you can directly drop into this Redis demo project.
-It’s intentionally **basic, readable, and scalable** (you won’t feel embarrassed about it later 😄).
-
----
-
-```md
 # RedisDemo (.NET Web API)
 
 A minimal **.NET Web API** project to get familiar with **Redis** as an in-memory key–value store.  
@@ -202,16 +196,3 @@ This project is for **learning and experimentation purposes**.
 ## 👤 Author
 
 Built for learning Redis integration with .NET.
-
-```
-
----
-
-If you want, I can also:
-- make this **enterprise-style README**
-- add **architecture diagram**
-- add **Docker Compose README**
-- add **Redis caching use-case README**
-
-Just say the word 👌
-```
